@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Code3 {
+public class Code03 {
 	public static void main(String[] args) {
 		String str = "Hello,world";
 		String input = null; // String is not primitive type
